@@ -1,5 +1,5 @@
-# consensus
-A tool for researchers using RNA-seq data
+# consensusML
+### A tool for researchers using RNA-seq data to find the most promising genes.
 
 
 This tool takes in RNA-seq data as X, y data and three models (Lasso, Random Forest, XGboost) and then finds the consensus of most important features through a combination of intersections, unions, cross-validation and Boruta feature selection.
